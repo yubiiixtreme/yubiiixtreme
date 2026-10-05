@@ -57,10 +57,6 @@ class Yubii:
 | **[torrentio-tui](https://github.com/yubiiixtreme/torrentio-tui)** 🐍 | A terminal UI for discovering and streaming movies, series and anime via Stremio (Cinemeta + Torrentio) straight into mpv or vlc |
 | **[nova-camera](https://github.com/yubiiixtreme/nova-camera)** 📸 | An advanced, high-performance Android camera app: CameraX + Camera2 pro controls, Compose Material 3, ML Kit, an OpenGL LUT pipeline and an encrypted vault |
 
----|---|
-| **[sysdash](https://github.com/yubiiixtreme/sysdash)** | A live terminal dashboard for CPU, RAM, disk and network, with sparklines, in pure Python and zero dependencies |
-| **[archclean](https://github.com/yubiiixtreme/archclean)** | A safe, dry-run-first cleanup script for Arch Linux: caches, orphans, updates and logs |
-| *…more on the way* | Check my [repositories](https://github.com/yubiiixtreme?tab=repositories) for the latest |
 
 ---
 
