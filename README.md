@@ -45,8 +45,19 @@ class Yubii:
 
 ## 🛠️ What I build
 
-| 🔧 Tool | 📖 What it does |
+<div align="center">
+
+<a href="https://github.com/yubiiixtreme/torrentio-tui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yubiiixtreme&repo=torrentio-tui&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+<a href="https://github.com/yubiiixtreme/nova-camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yubiiixtreme&repo=nova-camera&theme=tokyonight&hide_border=true&bg_color=0d1117" /></a>
+
+</div>
+
+| 🔧 Project | 📖 What it does |
 |---|---|
+| **[torrentio-tui](https://github.com/yubiiixtreme/torrentio-tui)** 🐍 | A terminal UI for discovering and streaming movies, series and anime via Stremio (Cinemeta + Torrentio) straight into mpv or vlc |
+| **[nova-camera](https://github.com/yubiiixtreme/nova-camera)** 📸 | An advanced, high-performance Android camera app: CameraX + Camera2 pro controls, Compose Material 3, ML Kit, an OpenGL LUT pipeline and an encrypted vault |
+
+---|---|
 | **[sysdash](https://github.com/yubiiixtreme/sysdash)** | A live terminal dashboard for CPU, RAM, disk and network, with sparklines, in pure Python and zero dependencies |
 | **[archclean](https://github.com/yubiiixtreme/archclean)** | A safe, dry-run-first cleanup script for Arch Linux: caches, orphans, updates and logs |
 | *…more on the way* | Check my [repositories](https://github.com/yubiiixtreme?tab=repositories) for the latest |
@@ -59,6 +70,8 @@ class Yubii:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
