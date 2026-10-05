@@ -47,8 +47,8 @@ class Yubii:
 
 | 🔧 Tool | 📖 What it does |
 |---|---|
-| **sysdash** | A live terminal dashboard for CPU, RAM, disk and network, with sparklines, in pure Python and zero dependencies |
-| **archclean** | A safe, dry-run-first cleanup script for Arch Linux: caches, orphans, updates and logs |
+| **[sysdash](https://github.com/yubiiixtreme/sysdash)** | A live terminal dashboard for CPU, RAM, disk and network, with sparklines, in pure Python and zero dependencies |
+| **[archclean](https://github.com/yubiiixtreme/archclean)** | A safe, dry-run-first cleanup script for Arch Linux: caches, orphans, updates and logs |
 | *…more on the way* | Check my [repositories](https://github.com/yubiiixtreme?tab=repositories) for the latest |
 
 ---
