@@ -86,7 +86,7 @@ class Yubii:
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yubiiixtreme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubiiixtreme&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=yubiiixtreme&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=yubiiixtreme&theme=tokyonight&hide_border=true&background=0d1117&v=2026-10-06" />
 
 </div>
 
