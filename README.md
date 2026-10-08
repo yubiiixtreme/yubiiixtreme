@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yubii+%F0%9F%91%8B;I+build+tools+%26+services+that+fix+real+problems;Linux+ricer+%7C+Vibe+coder;Open+to+paid+projects+%F0%9F%92%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Yubii+%F0%9F%91%8B;I+build+tools+%26+services;that+fix+real+problems;Linux+ricer+%7C+Vibe+coder;Open+to+paid+projects+%F0%9F%92%B8" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Tools_%26_Services-00E5FF?style=for-the-badge&logo=toolbox&logoColor=black" />
